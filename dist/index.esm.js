@@ -2201,7 +2201,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/milkswap_bsc",
+        href: "https://twitter.com/niccoming",
     },
 ];
 var MENU_HEIGHT = 64;
