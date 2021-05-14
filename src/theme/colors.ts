@@ -2,14 +2,14 @@
  * @Author: Nic(❤❤️ niccoming@gmail.com ❤❤️)
  * @Date: 2021-05-14 09:29:02
  * @LastEditors: Nic
- * @LastEditTime: 2021-05-14 10:40:09
+ * @LastEditTime: 2021-05-14 11:10:06
  * @FilePath: /pancake-uikit/src/theme/colors.ts
  */
 import { Colors } from "./types";
 
 export const baseColors = {
   failure: "#ff738e",
-  primary: "#5DC4D9",
+  primary: "#eb6b11",
   primaryBright: "#5DC4D9",
   primaryDark: "#eb6b11",
   secondary: "#eb6b11",
