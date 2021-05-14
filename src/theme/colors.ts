@@ -2,7 +2,7 @@
  * @Author: Nic(❤❤️ niccoming@gmail.com ❤❤️)
  * @Date: 2021-05-14 09:29:02
  * @LastEditors: Nic
- * @LastEditTime: 2021-05-14 11:55:25
+ * @LastEditTime: 2021-05-14 12:23:22
  * @FilePath: /pancake-uikit/src/theme/colors.ts
  */
 import { Colors } from "./types";
@@ -55,7 +55,7 @@ export const darkColors: Colors = {
   textDisabled: "#666171",
   textSubtle: "#357f8f",
   borderColor: "#524B63",
-  card: "#27262c",
+  card: "#022931",
   gradients: {
     bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
   },
