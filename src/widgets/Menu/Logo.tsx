@@ -1,3 +1,10 @@
+/*
+ * @Author: Nic(❤❤️ niccoming@gmail.com ❤❤️)
+ * @Date: 2021-05-14 09:29:02
+ * @LastEditors: Nic
+ * @LastEditTime: 2021-05-14 13:30:48
+ * @FilePath: /pancake-uikit/src/widgets/Menu/Logo.tsx
+ */
 import React from "react";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
@@ -45,12 +52,12 @@ const Logo: React.FC<Props> = ({ isPushed, togglePush, isDark, href }) => {
       {isAbsoluteUrl ? (
         <StyledLink as="a" href={href} aria-label="MilkSwap home page">
           <img
-            src="https://github.com/MilkSwap/pancake-uikit/blob/master/src/widgets/Menu/logo.svg?raw=true"
+            src="https://github.com/niccoming/pancake-uikit/blob/master/src/widgets/Menu/logo.svg?raw=true"
             alt="Milkswap Logo"
             className="mobile-icon"
           />
           <img
-            src="https://github.com/MilkSwap/pancake-uikit/blob/master/src/widgets/Menu/milkswap_logo.svg?raw=true"
+            src="https://github.com/niccoming/pancake-uikit/blob/master/src/widgets/Menu/logo.svg?raw=true"
             alt="Milkswap Logo"
             className="desktop-icon"
           />
@@ -58,12 +65,12 @@ const Logo: React.FC<Props> = ({ isPushed, togglePush, isDark, href }) => {
       ) : (
         <StyledLink to={href} aria-label="MilkSwap home page">
           <img
-            src="https://github.com/MilkSwap/pancake-uikit/blob/master/src/widgets/Menu/logo.svg?raw=true"
+            src="https://github.com/niccoming/pancake-uikit/blob/master/src/widgets/Menu/logo.svg?raw=true"
             alt="Milkswap Logo"
             className="mobile-icon"
           />
           <img
-            src="https://github.com/MilkSwap/pancake-uikit/blob/master/src/widgets/Menu/milkswap_logo.svg?raw=true"
+            src="https://github.com/niccoming/pancake-uikit/blob/master/src/widgets/Menu/logo.svg?raw=true"
             alt="Milkswap Logo"
             className="desktop-icon"
           />
