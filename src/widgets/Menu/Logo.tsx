@@ -2,7 +2,7 @@
  * @Author: Nic(❤❤️ niccoming@gmail.com ❤❤️)
  * @Date: 2021-05-14 09:29:02
  * @LastEditors: Nic
- * @LastEditTime: 2021-05-14 13:30:48
+ * @LastEditTime: 2021-05-14 13:46:21
  * @FilePath: /pancake-uikit/src/widgets/Menu/Logo.tsx
  */
 import React from "react";
@@ -57,7 +57,7 @@ const Logo: React.FC<Props> = ({ isPushed, togglePush, isDark, href }) => {
             className="mobile-icon"
           />
           <img
-            src="https://github.com/niccoming/pancake-uikit/blob/master/src/widgets/Menu/logo.svg?raw=true"
+            src="https://github.com/niccoming/pancake-uikit/blob/master/src/widgets/Menu/cashcowdefi_logo.svg?raw=true"
             alt="Milkswap Logo"
             className="desktop-icon"
           />
@@ -70,7 +70,7 @@ const Logo: React.FC<Props> = ({ isPushed, togglePush, isDark, href }) => {
             className="mobile-icon"
           />
           <img
-            src="https://github.com/niccoming/pancake-uikit/blob/master/src/widgets/Menu/logo.svg?raw=true"
+            src="https://github.com/niccoming/pancake-uikit/blob/master/src/widgets/Menu/cashcowdefi_logo.svg?raw=true"
             alt="Milkswap Logo"
             className="desktop-icon"
           />
