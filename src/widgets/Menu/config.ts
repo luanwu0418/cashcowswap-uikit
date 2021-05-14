@@ -95,11 +95,11 @@ export const links = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/milkswap",
+        href: "https://github.com/cashcowswap",
       },
       {
         label: "Blog",
-        href: "https://milk-swap.medium.com/",
+        href: "https://cashcowswap.medium.com/",
       },
     ],
   },
@@ -112,14 +112,14 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/milkswap_bsc",
+        href: "https://t.me/Cashcowdefi_chat",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/niccoming",
+    href: "https://twitter.com/Cashcowswap",
   },
 ];
 
