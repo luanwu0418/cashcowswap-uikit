@@ -2340,7 +2340,7 @@ var PanelFooter = function (_a) {
     return (React__default['default'].createElement(Container$4, null,
         React__default['default'].createElement(SocialEntry, null,
             cakePriceUsd ? (React__default['default'].createElement(PriceLink, { href: "https://pancakeswap.info/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82", target: "_blank" },
-                React__default['default'].createElement("img", { src: "https://github.com/MilkSwap/pancake-uikit/blob/master/src/widgets/Menu/logo.png?raw=true", alt: "Milkswap Logo", style: {
+                React__default['default'].createElement("img", { src: "https://github.com/niccoming/pancake-uikit/blob/master/src/widgets/Menu/logo.svg?raw=true", alt: "Cashcowdefi Logo", style: {
                         width: "24px",
                         marginRight: "8px",
                     } }),
