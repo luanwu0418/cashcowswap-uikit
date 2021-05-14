@@ -872,7 +872,7 @@ var style = (_a = {},
         fontSizeLg: "64px",
     },
     _a);
-var Heading = styled(Text).attrs({ bold: true })(templateObject_1$g || (templateObject_1$g = __makeTemplateObject(["\n  font-size: ", ";\n  font-weight: 800;\n  line-height: 1.1;\n  color: #2f3537;\n\n  ", " {\n    font-size: ", ";\n  }\n"], ["\n  font-size: ", ";\n  font-weight: 800;\n  line-height: 1.1;\n  color: #2f3537;\n\n  ", " {\n    font-size: ", ";\n  }\n"])), function (_a) {
+var Heading = styled(Text).attrs({ bold: true })(templateObject_1$g || (templateObject_1$g = __makeTemplateObject(["\n  font-size: ", ";\n  font-weight: 800;\n  line-height: 1.1;\n  color: #eb6b11;\n\n  ", " {\n    font-size: ", ";\n  }\n"], ["\n  font-size: ", ";\n  font-weight: 800;\n  line-height: 1.1;\n  color: #eb6b11;\n\n  ", " {\n    font-size: ", ";\n  }\n"])), function (_a) {
     var size = _a.size;
     return style[size || sizes$1.MD].fontSize;
 }, function (_a) {
