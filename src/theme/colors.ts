@@ -2,7 +2,7 @@
  * @Author: Nic(❤❤️ niccoming@gmail.com ❤❤️)
  * @Date: 2021-05-14 09:29:02
  * @LastEditors: Nic
- * @LastEditTime: 2021-05-14 12:23:22
+ * @LastEditTime: 2021-05-14 12:28:06
  * @FilePath: /pancake-uikit/src/theme/colors.ts
  */
 import { Colors } from "./types";
@@ -44,7 +44,7 @@ export const darkColors: Colors = {
   ...baseColors,
   ...brandColors,
   secondary: "#9A6AFF",
-  background: "#100C18",
+  background: "#093c46",
   backgroundDisabled: "#3c3742",
   contrast: "#FFFFFF",
   invertedContrast: "#191326",
