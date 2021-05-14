@@ -2,7 +2,7 @@
  * @Author: Nic(❤❤️ niccoming@gmail.com ❤❤️)
  * @Date: 2021-05-14 09:29:02
  * @LastEditors: Nic
- * @LastEditTime: 2021-05-14 11:10:06
+ * @LastEditTime: 2021-05-14 11:47:20
  * @FilePath: /pancake-uikit/src/theme/colors.ts
  */
 import { Colors } from "./types";
@@ -43,7 +43,7 @@ export const lightColors: Colors = {
 export const darkColors: Colors = {
   ...baseColors,
   ...brandColors,
-  secondary: "#9A6AFF",
+  secondary: "#FFFFFF",
   background: "#100C18",
   backgroundDisabled: "#3c3742",
   contrast: "#FFFFFF",
@@ -53,7 +53,7 @@ export const darkColors: Colors = {
   tertiary: "#353547",
   text: "#EAE2FC",
   textDisabled: "#666171",
-  textSubtle: "#A28BD4",
+  textSubtle: "#357f8f",
   borderColor: "#524B63",
   card: "#27262c",
   gradients: {
